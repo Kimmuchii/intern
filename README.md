@@ -1,1 +1,2 @@
 # intern
+print("hello world")
