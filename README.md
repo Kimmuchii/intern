@@ -43,6 +43,16 @@ term
 
 
 
-#### 4. 
+#### 4. How to Activate Venv and Set python Version
+ - how to download, use, and  a python version
+```
+brew install python@3.9
 
+python3.9 -m venv version3.9
 
+Source version3.9/bin/activate
+```
+- using that we can also download numpy or other mods matching that version
+```
+python3.9 -m pip install numpy
+```
