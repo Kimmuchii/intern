@@ -1,6 +1,6 @@
-### intern
+# intern
 
-#### 1. git
+## 1. git
 
  - git command
  
@@ -20,7 +20,7 @@ import os
 pirint("test")
 ```
 
-#### 2. gitkraken
+## 2. gitkraken
 
 ![alt text](img/image.png)
 
@@ -37,12 +37,17 @@ term
 ```
 
 
-#### 3. Visual Studio Code
+## 3. Visual Studio Code
+- how to preview some codes
+```
+comand k + v
+```
+- 
 
 
 
 
-
+## Terminal 
 #### 4. How to Activate Venv and Set python Version
  - how to download, use, and  a python version
 ```
@@ -55,4 +60,8 @@ Source version3.9/bin/activate
 - using that we can also download numpy or other mods matching that version
 ```
 python3.9 -m pip install numpy
+```
+- to check the downloaded things on pip
+```
+pip list
 ```
