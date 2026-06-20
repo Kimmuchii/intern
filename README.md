@@ -65,3 +65,19 @@ python3.9 -m pip install numpy
 ```
 pip list
 ```
+
+#### code
+- current to parent folder
+```
+cd ..
+```
+
+- to make new directory
+```
+mkdir _______
+sudo mkdir _______
+```
+- then with that made directory we can start coding
+```
+cd pythoncode
+```
